@@ -1,0 +1,10 @@
+Comandos Basicos de Guit
+Comando: Git init -- Crear un nuevo proyecto en la carpeta
+Comando: Git add "nombre.extension" -- Pasar el archivo al stating
+Comando: Git commit "nombre.extension" -m "Descripcion" -- Pasar el archivo al repostorio
+Comando: Git status -- Ver el estado de todo el proyecto
+Comando: Git Log -- Ver el historial de modificaciones en todo el proyecto (detallado)
+Comando: Git Log --oneline -- Historial en una sola linea, no tan detallado.
+Comando: Git Checkout "Codigo" -- (el codigo se ve en el log) Permite volver a una modificacion hecha anteriormente
+Comando: Git Checkout master -- Volver al Head anterior, no se debe haber modificado nada.
+
