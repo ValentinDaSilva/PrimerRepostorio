@@ -12,3 +12,4 @@ Comando: Git Branch -- Te va a mostrar todas las ramas que hay creadas
 Comando: Git Show -- Mustra informacion sobre la version del proyecto en la que estas y en que rama te encuentras
 Comando: Git Marge "Nombre De la Rama" -- Unir dos ramas. Si estas en master y poner git merge "nombre" entonces todo lo que esta en merge pasa a master.
 Comando: Git Commit -am "Descripcion" -- Poner el git add y git commit en un solo Comando
+Comando: Git Clone "URL" "Nombre de la carpeta" -- Descargar en tu computadora el proyecto
