@@ -1,3 +1,4 @@
+Access Key: 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
 Comandos Basicos de Guit
 Comando: Git init -- Crear un nuevo proyecto en la carpeta
 Comando: Git add "nombre.extension" -- Pasar el archivo al stating
